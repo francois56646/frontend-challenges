@@ -1,6 +1,6 @@
 {
   "name": "frontend-challenges",
-  "version": "0.1.24",
+  "version": "0.1.25",
   "description": "FrontendChallenges is a collection of frontend interview questions and answers. It is designed to help you prepare for frontend interviews. It's free and open source.",
   "main": "src/index.ts",
   "scripts": {
